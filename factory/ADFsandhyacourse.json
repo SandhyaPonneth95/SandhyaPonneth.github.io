@@ -1,0 +1,9 @@
+{
+	"name": "ADFsandhyacourse",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09cc754d-ac35-4730-a6de-f24c0aa79bc1",
+		"tenantId": "270b32cc-b4a1-47c2-b69b-56bd8b41a31e"
+	}
+}
